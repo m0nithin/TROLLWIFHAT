@@ -506,7 +506,8 @@ iframe {
 }
 
 .main {
-    background-color: #8fbfd7
+    background-image: linear-gradient(45deg, hsl(289deg 100% 57%) 0%, hsl(192deg 100% 50%) 50%, hsl(158deg 99% 50%) 100%) !important;
+    ;
 }
 
 .intro {
